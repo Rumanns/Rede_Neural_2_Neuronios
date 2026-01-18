@@ -26,7 +26,7 @@ Biblioteca: random
 
 #### Uso Básico
 
-Basta rodar o código através do spyder
+Basta rodar o código através do spyder, jupyter ou sublime. Lembrando que se for através do sublime é necessário abrir o prompt e rodar o código através do prompt.
 
 
 
