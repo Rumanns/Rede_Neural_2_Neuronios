@@ -36,7 +36,7 @@ Basta rodar o código através do spyder, jupyter ou sublime. Lembrando que se f
 
 
 
-Resultados 📊
+### Resultados 📊
 
 *Os resultados foram satisfatórios. Dependendo do número de peso atribuído a cada neurônio o resultado demora mais ou menos para ser descoberto.*
 
