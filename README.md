@@ -1,68 +1,58 @@
-# Redes\_Neurais\_2\_Neurônios
-
-Estudo de redes neurais
-
-1. A primeira rede neural mostra o funcionamento de uma rede com apenas dois neurônios, que devem encontrar a configuração lógica "and".# Redes\_Neurais\_Ultra\_Simples
-
-
-
-
-
-
-
 ### Redes Neurais
 
-\[Badges: build, version, license, etc]
+Estudo da rede neural de dois neurônios. Só pra ver como funciona.
 
 
 
-### 📋 Sobre o Projeto
+### Sobre o Projeto 📋
 
 *O presente projeto tem o intuito de estudar e projetar redes neurais de dois neurônios e explorar suas capacidades.*
 
 
 
-### 🚀 Começando
+### Começando 🚀
 
 #### Pré-requisitos
 
-\[Badges: build, version, license, etc]
+Anaconda, python, spyder
 
 
 
 #### Instalação
 
-\[Badges: build, version, license, etc]
+Biblioteca: random
 
 
 
 #### Uso Básico
 
-\[Badges: build, version, license, etc]
+Basta rodar o código através do spyder
 
 
 
-### 🧪 Testes
+### Testes 🧪
 
-*(Testes realizados)*
-
-
-
-### 📊 Resultados
-
-*(Resultados obtidos)*
+*Os testes mostraram que podem existir caminhos mais longos ou mais curtos dependendo do número randômico de entrada.*
 
 
 
-### 🏗️ Estrutura do Projeto
+Resultados 📊
 
-*(Estrutura de pastas e scripts do projeto)*
-
-
-
-### 🤝 Contribuição
-
-*(O projeto serviu para)*
+*Os resultados foram satisfatórios. Dependendo do número de peso atribuído a cada neurônio o resultado demora mais ou menos para ser descoberto.*
 
 
+
+### Estrutura do Projeto 🏗️
+
+│
+
+├──README.md
+
+└──Rede Neural de 2 Neurônios.py
+
+
+
+### Contribuição 🤝
+
+*Observar o comportamento de uma rede neural de dois neurônios, com seus pesos, etc.*
 
